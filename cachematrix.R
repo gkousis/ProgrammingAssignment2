@@ -6,6 +6,7 @@
 makeCacheMatrix <- function(x = matrix()) {
   
   ## GK:  This is an edit
+  ## second line edit.  Commit this as well and push to remote
 
 }
 
